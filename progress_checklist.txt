@@ -242,11 +242,6 @@ completed_assignments/
 │   │   │   │   ├── _header.md
 │   │   │   │   ├── meta.yaml
 │   │   │   │   └── README.md
-│   │   │   ├── 03-Data_Types_and_Arithmetic
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
 │   │   │   ├── 03-Data_Types_and_Arithmetic copy
 │   │   │   │   ├── 03-Data_Types_and_Arithmetic.ipynb
 │   │   │   │   ├── _autogen.md
